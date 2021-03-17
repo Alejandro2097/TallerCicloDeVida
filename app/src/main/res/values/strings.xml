@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cicloDeVida</string>
+    <string name="textBtn">Siguiente actividad</string>
+    <string name="textTitulo">Contador</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="textBtn2">Salir</string>
+    <string name="inicioCont">1</string>
+    <string name="textResumen">onResume()</string>
+    <string name="textRestart">onRestart()</string>
+</resources>
